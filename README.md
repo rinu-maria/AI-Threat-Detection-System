@@ -1,10 +1,10 @@
-# 🚨 AI Threat Detection System
+# AI Threat Detection System
 
 An AI-powered cybersecurity threat detection and analytics system built using TensorFlow, Elasticsearch, and Kibana to detect, classify, and visualize suspicious network activity in real time.
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 This project combines Machine Learning with the ELK Stack (Elasticsearch + Kibana) to simulate a SOC (Security Operations Center)-style cyber threat monitoring dashboard.
 
